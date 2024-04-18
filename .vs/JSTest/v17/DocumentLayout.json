@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "JSTest\\Tasks\\parsertask3.js",
               "ToolTip": "C:\\GitHub\\JSTest\\JSTest\\Tasks\\parsertask3.js",
               "RelativeToolTip": "JSTest\\Tasks\\parsertask3.js",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFwAAABDAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwFoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-04-17T15:33:49.387Z",
               "EditorCaption": ""
@@ -55,7 +55,8 @@
               "RelativeToolTip": "JSTest\\Tasks\\parsertask2.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-04-17T15:33:21.409Z"
+              "WhenOpened": "2024-04-17T15:33:21.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -67,7 +68,8 @@
               "RelativeToolTip": "JSTest\\Tasks\\configtask2.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-17T15:32:41.542Z"
+              "WhenOpened": "2024-04-17T15:32:41.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
