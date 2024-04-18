@@ -1,0 +1,213 @@
+{
+  "case_tech_name": {
+    "usual_basic_case": {
+      "group_1": {
+        "group_chance": 0.25,
+        "rewards": [
+          {
+            "item_tech_name": "os_bucks",
+            "item_id": "os_bucks",
+            "type": {
+              "name": "currency",
+              "desc": "soft"
+            },
+            "parameters": {
+              "count": 5000,
+              "chance": 0.25
+            }
+          },
+          {
+            "item_tech_name": "salsa",
+            "item_id": "id_111",
+            "type": {
+              "name": "item",
+              "desc": "dance"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.1
+            }
+          },
+          {
+            "item_tech_name": "cyber_ninja",
+            "item_id": "id_290",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.1
+            }
+          },
+          {
+            "item_tech_name": "pirate",
+            "item_id": "id_49",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.15
+            }
+          },
+          {
+            "item_tech_name": "fiery_hammer",
+            "item_id": "id_158",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 2,
+              "chance": 0.15
+            }
+          },
+          {
+            "item_tech_name": "lemonade",
+            "item_id": "id_161",
+            "type": {
+              "name": "item",
+              "desc": "consum"
+            },
+            "parameters": {
+              "count": 5,
+              "chance": 0.05
+            }
+          },
+          {
+            "item_tech_name": "hot_soup_can",
+            "item_id": "id_585",
+            "type": {
+              "name": "item",
+              "desc": "consum"
+            },
+            "parameters": {
+              "count": 10,
+              "chance": 0.2
+            }
+          }
+        ]
+      },
+      "group_2": {
+        "group_chance": 0.15,
+        "rewards": [
+          {
+            "item_tech_name": "sand_grenade",
+            "item_id": "id_113",
+            "type": {
+              "name": "item",
+              "desc": "weapon"
+            },
+            "parameters": {
+              "count": 4,
+              "chance": 0.3
+            }
+          },
+          {
+            "item_tech_name": "angel",
+            "item_id": "id_308",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.3
+            }
+          },
+          {
+            "item_tech_name": "devil",
+            "item_id": "id_466",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.3
+            }
+          },
+          {
+            "item_tech_name": "twist",
+            "item_id": "id_132",
+            "type": {
+              "name": "item",
+              "desc": "dance"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.1
+            }
+          }
+        ]
+      },
+      "group_3": {
+        "group_chance": 0.6,
+        "rewards": [
+          {
+            "item_tech_name": "modern_detective",
+            "item_id": "id_610",
+            "type": {
+              "name": "item",
+              "desc": "character"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.3
+            }
+          },
+          {
+            "item_tech_name": "os_coins",
+            "item_id": "os_coins",
+            "type": {
+              "name": "currency",
+              "desc": "hard"
+            },
+            "parameters": {
+              "count": 250,
+              "chance": 0.15
+            }
+          },
+          {
+            "item_tech_name": "plasma_sword",
+            "item_id": "id_574",
+            "type": {
+              "name": "item",
+              "desc": "weapon"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.15
+            }
+          },
+          {
+            "item_tech_name": "antidote",
+            "item_id": "id_273",
+            "type": {
+              "name": "item",
+              "desc": "weapon"
+            },
+            "parameters": {
+              "count": 45,
+              "chance": 0.15
+            }
+          },
+          {
+            "item_tech_name": "twist",
+            "item_id": "id_132",
+            "type": {
+              "name": "item",
+              "desc": "dance"
+            },
+            "parameters": {
+              "count": 1,
+              "chance": 0.25
+            }
+          }
+        ]
+      }
+    }
+  }
+}
