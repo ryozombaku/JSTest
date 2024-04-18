@@ -89,5 +89,7 @@ fs.createReadStream(path)
                 throw error;
             }
             console.log("outputtask3.json written correctly."); // json-файл готов
+
+            //добавил комментарий - для демонстрации работы с гитом
         });
     });
